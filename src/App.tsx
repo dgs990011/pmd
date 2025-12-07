@@ -117,10 +117,10 @@ const apps = [
   },
    {
     id: 17,
-    name: "28圈",
+    name: "C7娱乐",
     description: "首存100+100",
-    iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg",
-    url: "https://45.114.105.123:7788/#/link?allwin=9437468",
+    iconUrl: "https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg",
+    url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
   },
     {
     id: 19,
