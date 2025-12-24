@@ -141,7 +141,7 @@ const apps = [
     name: "胜天国际", 
     description: "30号正式开业，可优先注册领取百万红包", 
     iconUrl: "https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg",
-    url: "https://wcwx.paradisemall.net/app/register.php?site_id=1050&topId=880722&selfPlanId=855049",
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
   },
 ];
 
