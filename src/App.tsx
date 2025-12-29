@@ -13,7 +13,7 @@ const apps = [
      {
     id: 2,
     name: "星耀国际",
-    description: "新台大水",
+    description: "首存100+100",
     iconUrl: "https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg",
     url: "https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066",
   },
