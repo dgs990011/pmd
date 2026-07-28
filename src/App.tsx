@@ -14,11 +14,11 @@ const bottomBanner = {
 
 const apps = [
         {
-      id: 2,
+      id: 222,
       name: '纵横国际',
       description: '',
       iconUrl: 'https://pic1.imgdb.cn/i/033wuD0CyDVlAA0wRh1b38.jpg',
-      Url: 'http://xnqwzf.tckqxx.com/app/register.php?site_id=1067&topId=7071785164141492&selfPlanId=792'
+      url: 'http://xnqwzf.tckqxx.com/app/register.php?site_id=1067&topId=7071785164141492&selfPlanId=792'
     }, 
   {
       id: 2,
